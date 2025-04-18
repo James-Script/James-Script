@@ -1,11 +1,45 @@
-- 👋 Hi, I’m @James-crypt-code;
-- 👀 I’m interested in front-end;
-- 🌱 I’m currently learning js, html, css, POO;
-- 💞️ I’m looking to collaborate on ONG's or any startups, how i can show my skils;
-- 📫 How to reach me on instagram: @jeys.okonmaccx
+<h1 align="center">Salve! Eu sou o James 🧑🏽‍💻</h1>
 
+<p align="center">
+  Apaixonado por desenvolvimento, lógica e tecnologia.<br>
+  Em constante evolução com Java, Banco de Dados e análise de sistemas.
+</p>
 
-<!---
-James-crypt-code/James-crypt-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠 Tecnologias que estou estudando:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+### 📚 Meus repositórios em destaque:
+
+- [EstudosJava](https://github.com/James-crypt-code/EstudosJava)  
+  Aprendizado gradual de Java com estrutura organizada e didática
+
+---
+
+### 💡 Um pouco sobre mim:
+
+- 📌 Iniciando na programação com foco em backend
+- 📘 Estudando Java e banco de dados (MySQL)
+- 🌱 Aprendendo com disciplina e propósito
+- 🚀 Meu objetivo: me tornar um desenvolvedor versátil e confiante
+
+---
+
+### 📬 Contato
+
+- ✉️ [anawalescamedeiros@gmail.com](mailto:anawalescamedeiros@gmail.com)
+- 📎 [linkedin.com/in/roxana-walesca-9a41b8323](https://www.linkedin.com/in/roxana-walesca-9a41b8323) (ajuste pro seu depois)
+
+---
+
+<p align="center">
+  Feito com 💻, 🧠 e ⚡ por James
+</p>

@@ -17,8 +17,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=James-crypt-code&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-crypt-code&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=James-Script&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Script&layout=compact&theme=tokyonight" />
 </div>
 
 

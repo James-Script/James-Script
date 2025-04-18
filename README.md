@@ -35,8 +35,8 @@
 
 ### 📬 Contato
 
-- ✉️ [anawalescamedeiros@gmail.com](mailto:anawalescamedeiros@gmail.com)
-- 📎 [linkedin.com/in/roxana-walesca-9a41b8323](https://www.linkedin.com/in/roxana-walesca-9a41b8323) (ajuste pro seu depois)
+- ✉️ [jamessonlucas@gmail.com](mailto:jamessonlucas@gmail.com)
+- 📎 [(https://www.linkedin.com/in/jamesson-lucas-78b594207/)](https://www.linkedin.com/in/jamesson-lucas-78b594207/)
 
 ---
 

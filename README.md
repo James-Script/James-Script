@@ -1,4 +1,4 @@
-<h1 align="center">Salve! Meu nome é James 🧑🏽‍💻</h1>
+<h1 align="center">Olá! Meu nome é Jamesson 🧑🏽‍💻</h1>
 
 <p align="center">
   Apaxionado por desenvolvimento, lógica e tecnologia.<br>

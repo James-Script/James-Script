@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Meu nome é Jamesson 🧑🏽‍💻</h1>
+<h1 align="center">Olá! Meu nome é Jamesson </h1>
 
 <p align="center">
   Desenvolvedor Front-End<br>
@@ -34,22 +34,13 @@
 - [Meu Portfólio](https://github.com/James-crypt-code/Portfolio-james)
 Porfólio sobre mim e minhas experiências.
 
----
-
-### 💡 Um pouco sobre mim:
-
-- 📌 Iniciando na programação com foco em backend
-- 📘 Estudando Java e banco de dados (MySQL)
-- 🎨 Também aprendendo fundamentos de Front-End (HTML, CSS, JavaScript)
-- 🌱 Aprendendo com disciplina e propósito
-- 🚀 Meu objetivo: me tornar um desenvolvedor versátil e confiante
 
 ---
 
-### 📬 Contato
+### Contato
 
-- ✉️ [jamessonlucas01@gmail.com](mailto:jamessonlucas01@gmail.com)
-- 📎 [(https://www.linkedin.com/in/jamesson-lucas-78b594207/)](https://www.linkedin.com/in/jamesson-lucas-78b594207/)
+- [jamessonlucas01@gmail.com](mailto:jamessonlucas01@gmail.com)
+- [(https://www.linkedin.com/in/jamesson-lucas-78b594207/)](https://www.linkedin.com/in/jamesson-lucas-78b594207/)
 
 ---
 

@@ -29,10 +29,10 @@
 
 ---
 
-### 📚 Meus repositórios em destaque:
+### Meu repositório em destaque:
 
-- [EstudosJava](https://github.com/James-crypt-code/EstudosJava)  
-  Aprendizado gradual de Java com estrutura organizada e didática
+- [Meu Portfólio](https://github.com/James-crypt-code/Portfolio-james)
+Porfólio sobre mim e minhas experiências.
 
 ---
 

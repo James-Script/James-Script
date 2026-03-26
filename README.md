@@ -1,8 +1,7 @@
 <h1 align="center">Olá! Meu nome é Jamesson 🧑🏽‍💻</h1>
 
 <p align="center">
-  Apaxionado por desenvolvimento, lógica e tecnologia.<br>
-  Em constante evolução com Java, Banco de Dados e análise de sistemas.
+  Desenvolvedor Front-End<br>
 </p>
 
 ---

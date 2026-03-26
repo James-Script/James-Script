@@ -47,7 +47,7 @@
 
 ### 📬 Contato
 
-- ✉️ [jamessonlucas@gmail.com](mailto:jamessonlucas@gmail.com)
+- ✉️ [jamessonlucas01@gmail.com](mailto:jamessonlucas01@gmail.com)
 - 📎 [(https://www.linkedin.com/in/jamesson-lucas-78b594207/)](https://www.linkedin.com/in/jamesson-lucas-78b594207/)
 
 ---

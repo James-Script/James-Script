@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=James-Script&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=James-Script&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=James-Script&show_icons=true&theme=tokyonight" />
 </div>
 
 

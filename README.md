@@ -47,7 +47,7 @@ Porfólio sobre mim e minhas experiências.
 
 
 <div>
-  <img justify-self="start" src="github-readme.png" />
+  <img justify-self="start" src="preview-porfolio.png" />
 </div>
 
 ---

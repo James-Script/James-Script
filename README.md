@@ -46,6 +46,10 @@
 Porfólio sobre mim e minhas experiências.
 
 
+<div align="center">
+  <img src="./photos/assets/github-readme.png" />
+</div>
+
 ---
 
 ### Contato

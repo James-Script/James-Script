@@ -24,19 +24,22 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/James-Script/James-Script/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/James-Script/James-Script/output/github-contribution-grid-snake.svg" />
-</picture>
-
 
 <div align="center">
   <img height="150px" src="https://streak-stats.demolab.com?user=James-Script&theme=tokyonight" />
   <img height="150px" src="https://github-readme-activity-graph.vercel.app/graph?username=James-Script&theme=tokyo-night" />
 </div>
 
+---
 
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/James-Script/James-Script/output/github-contribution-grid-snake-dark.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/James-Script/James-Script/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 ---
 

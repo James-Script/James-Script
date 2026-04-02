@@ -42,7 +42,7 @@
 
 ### Meu repositório em destaque:
 
-- [Meu Portfólio](https://github.com/James-crypt-code/Portfolio-james)
+- [Meu Portfólio](https://portfoliojamessonlucas.vercel.app/)
 Porfólio sobre mim e minhas experiências.
 
 

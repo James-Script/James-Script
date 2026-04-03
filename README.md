@@ -8,7 +8,7 @@
 
 ---
 
-### Stacks:
+### Stacks
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align="center">🐍 Contributions</h2>
+<h2>🐍 Contributions</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/James-Script/James-Script/output/github-contribution-grid-snake-dark.svg?v=2" />
@@ -40,7 +40,7 @@
 
 ---
 
-### Meu repositório em destaque:
+### Meu repositório em destaque
 
 - [Meu Portfólio](https://portfoliojamessonlucas.vercel.app/)
 Porfólio sobre mim e minhas experiências.

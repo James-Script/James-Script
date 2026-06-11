@@ -40,8 +40,10 @@
 
 ---
 
-### Meu repositório em destaque
+### Projetos em destaque
 
+- [Fontea](https://github.com/James-Script/Fontea) — Sistema de geração de briefings institucionais
+- [Portfolio-james](https://github.com/James-Script/Portfolio-james) — Código-fonte do portfólio
 - [Meu Portfólio](https://portfoliojamessonlucas.vercel.app/)
 Porfólio sobre mim e minhas experiências.
 

@@ -35,7 +35,7 @@
 <h2>🐍 Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JamessonMarinho/JamessonMarinho/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/James-Script/James-Script/output/github-contribution-grid-snake-dark.svg?v=2" />
 </p>
 
 ---

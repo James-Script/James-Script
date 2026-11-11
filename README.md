@@ -14,6 +14,8 @@
 
 ### 👋 Sobre mim
 
+<img align="right" width="270" src="ascii-avatar.svg" alt="Retrato em ASCII de Jamesson Lucas" />
+
 Sou desenvolvedor Front-end e trabalho com **React e TypeScript** numa aplicação web em produção, com contribuições no back-end (**Node.js, Express e MySQL**). Gosto de transformar telas do Figma em interfaces responsivas e de deixar a web mais rápida: no último projeto, levei a nota mobile do PageSpeed de **8 para 79**.
 
 ```ts
@@ -25,6 +27,8 @@ const jamesson = {
   estudando: ["testes automatizados", "acessibilidade"],
 };
 ```
+
+<br clear="right" />
 
 ### 🛠️ Stack
 

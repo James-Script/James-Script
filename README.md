@@ -1,41 +1,27 @@
-<p align="center">
-  <img src="hero.svg" width="100%" alt="Jamesson Lucas, desenvolvedor front-end em Recife: React, Next.js e TypeScript, com foco em performance web e UX" />
-</p>
+<img src="assets/hero-v2.svg" width="100%" alt="Jamesson Lucas, desenvolvedor front-end em Recife: React, Next.js e TypeScript, com foco em performance web e UX" />
 
-<p align="center">
-  <img src="panels.svg" width="100%" alt="Log de deploy com os ganhos de performance, ferramentas que uso e últimas entregas" />
-</p>
+<img src="assets/panels-v2.svg" width="100%" alt="Log de deploy com os ganhos de performance, ferramentas que uso e últimas entregas" />
 
-<h3>$ ls ~/projetos</h3>
+<br />
 
-<table>
-  <tr>
-    <td><a href="https://portfoliojamessonlucas.vercel.app/"><b>portfólio</b></a></td>
-    <td>quem sou, o que já fiz e como falar comigo</td>
-    <td><code>next.js</code></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/James-Script/Portfolio-james"><b>portfolio-james</b></a></td>
-    <td>código-fonte do portfólio</td>
-    <td><code>react</code></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/James-Script/Fontea"><b>fontea</b></a></td>
-    <td>geração de briefings institucionais</td>
-    <td><code>web</code></td>
-  </tr>
-</table>
-
-<a href="https://portfoliojamessonlucas.vercel.app/"><img src="preview-porfolio.png" alt="Prévia do portfólio no celular e no computador" width="100%" /></a>
-
-<h3>$ git log --graph</h3>
-
-<img width="100%" src="https://raw.githubusercontent.com/James-Script/James-Script/output/github-contribution-grid-snake-dark.svg" alt="Gráfico de contribuições" />
-
-<h3>$ ssh jamesson@recife</h3>
+<img src="assets/sec-projetos.svg" width="100%" alt="$ ls ~/projetos" />
 
 <p>
-  <a href="https://portfoliojamessonlucas.vercel.app/">portfoliojamessonlucas.vercel.app</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/jamesson-lucas-78b594207/">linkedin.com/in/jamesson-lucas</a> &nbsp;·&nbsp;
-  <a href="mailto:jamessonlucas01@gmail.com">jamessonlucas01@gmail.com</a>
+  <a href="https://portfoliojamessonlucas.vercel.app/"><img src="assets/proj-portfolio.svg" width="32%" alt="portfólio: quem sou, o que já fiz e como falar comigo" /></a>
+  <a href="https://github.com/James-Script/Portfolio-james"><img src="assets/proj-portfolio-james.svg" width="32%" alt="portfolio-james: código-fonte do portfólio" /></a>
+  <a href="https://github.com/James-Script/Fontea"><img src="assets/proj-fontea.svg" width="32%" alt="fontea: geração de briefings institucionais" /></a>
+</p>
+
+<a href="https://portfoliojamessonlucas.vercel.app/"><img src="preview-porfolio.png" width="100%" alt="Prévia do portfólio no celular e no computador" /></a>
+
+<img src="assets/sec-atividade.svg" width="100%" alt="$ git log --graph" />
+
+<img src="https://raw.githubusercontent.com/James-Script/James-Script/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Gráfico de contribuições" />
+
+<img src="assets/sec-contato.svg" width="100%" alt="$ ssh jamesson@recife" />
+
+<p>
+  <a href="https://portfoliojamessonlucas.vercel.app/"><img src="assets/btn-portfolio.svg" width="32%" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/jamesson-lucas-78b594207/"><img src="assets/btn-linkedin.svg" width="32%" alt="LinkedIn" /></a>
+  <a href="mailto:jamessonlucas01@gmail.com"><img src="assets/btn-email.svg" width="32%" alt="E-mail" /></a>
 </p>

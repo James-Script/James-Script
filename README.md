@@ -1,69 +1,57 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header" width="100%"/>
-
-<h1 align="center">Olá, Meu nome é Jamesson! </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,100:b30000&text=Jamesson%20Lucas&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Desenvolvedor%20Front-end%20%C2%B7%20Recife%2FPE&descAlignY=56&descSize=17" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=24&center=true&vCenter=true&width=500&lines=Front-End+Developer;Next.js+Lover;Building+Cool+Things" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=FF3B3B&center=true&vCenter=true&width=560&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Performance+web+e+interfaces+r%C3%A1pidas;Do+Figma+%C3%A0+produ%C3%A7%C3%A3o" alt="React, Next.js, TypeScript e Node.js" />
+</p>
+
+<p align="center">
+  <a href="https://portfoliojamessonlucas.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/jamesson-lucas-78b594207/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jamessonlucas01@gmail.com"><img src="https://img.shields.io/badge/E--mail-b30000?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 ---
 
-### Stacks
+### 👋 Sobre mim
 
-<div align="center">
+Sou desenvolvedor Front-end e trabalho com **React e TypeScript** numa aplicação web em produção, com contribuições no back-end (**Node.js, Express e MySQL**). Gosto de transformar telas do Figma em interfaces responsivas e de deixar a web mais rápida: no último projeto, levei a nota mobile do PageSpeed de **8 para 79**.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br>
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+```ts
+const jamesson = {
+  cargo: "Desenvolvedor Front-end",
+  local: "Recife, PE",
+  stack: ["React", "Next.js", "TypeScript", "Node.js"],
+  gosto: ["performance web", "UX", "entregas de ponta a ponta"],
+  estudando: ["testes automatizados", "acessibilidade"],
+};
+```
 
-</div>
-
-<div align="center">
-  <img height="150px" src="https://streak-stats.demolab.com?user=James-Script&theme=tokyonight" />
-  <img height="150px" src="https://github-readme-activity-graph.vercel.app/graph?username=James-Script&theme=tokyo-night" />
-</div>
-
----
-
-<h2>🐍 Contributions</h2>
+### 🛠️ Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/James-Script/James-Script/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,vue,tailwind,sass,vite,nodejs,express,mysql,docker,aws,git,figma,wordpress&perline=8" alt="Next.js, React, TypeScript, JavaScript, Vue, Tailwind, Sass, Vite, Node.js, Express, MySQL, Docker, AWS, Git, Figma e WordPress" />
 </p>
 
----
+### 🚀 Projetos em destaque
 
-### Projetos em destaque
-
-- [Fontea](https://github.com/James-Script/Fontea) — Sistema de geração de briefings institucionais
-- [Portfolio-james](https://github.com/James-Script/Portfolio-james) — Código-fonte do portfólio
-- [Meu Portfólio](https://portfoliojamessonlucas.vercel.app/) — Porfólio sobre mim e minhas experiências.
-
-
-<div>
-  <img justify-self="start" src="preview-porfolio.png" />
-</div>
-
----
-
-### Contato
-
-- [jamessonlucas01@gmail.com](mailto:jamessonlucas01@gmail.com)
-- [(https://www.linkedin.com/in/jamesson-lucas-78b594207/)](https://www.linkedin.com/in/jamesson-lucas-78b594207/)
-
----
+| Projeto | Sobre |
+|---|---|
+| [**Meu Portfólio**](https://portfoliojamessonlucas.vercel.app/) | Quem sou, o que já fiz e como falar comigo. |
+| [**Portfolio-james**](https://github.com/James-Script/Portfolio-james) | Código-fonte do portfólio. |
+| [**Fontea**](https://github.com/James-Script/Fontea) | Sistema de geração de briefings institucionais. |
 
 <p align="center">
-  Feito com 💻, 🧠 e ⚡ por James
+  <a href="https://portfoliojamessonlucas.vercel.app/"><img src="preview-porfolio.png" alt="Prévia do portfólio" width="100%" /></a>
 </p>
 
-<div><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer" width="100%" />
-</p></div>
+### 📈 Atividade
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=James-Script&hide_border=true&background=0d1117&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&locale=pt_BR" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/James-Script/James-Script/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:b30000,100:0d1117&section=footer" width="100%" />

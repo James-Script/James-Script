@@ -16,7 +16,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono","D
 <stop offset="0" stop-color="#5b93c9"/><stop offset=".42" stop-color="#5b93c9"/><stop offset=".5" stop-color="#cdeeff"/><stop offset=".58" stop-color="#5b93c9"/><stop offset="1" stop-color="#5b93c9"/>
 <animateTransform attributeName="gradientTransform" type="translate" values="0 -426;0 -426;0 426" keyTimes="0;.55;1" dur="7s" begin="1.6s" repeatCount="indefinite"/>
 </linearGradient></defs>
-<svg x="22" y="20" width="300" height="276" viewBox="0 0 463 426">
+<svg x="40" y="14" width="330" height="304" viewBox="0 0 463 426">
 <text class="in" x="1" y="7.0" font-size="6.4" fill="#1c2c44" style="fill:#1c2c44;white-space:pre;animation-delay:0.000s" xml:space="preserve">                                                  . . . . . . . . . . .</text>
 <text class="in" x="1" y="14.1" font-size="6.4" fill="#1c2c44" style="fill:#1c2c44;white-space:pre;animation-delay:0.025s" xml:space="preserve">                                         . . . . . . . . . . . . . . . . . . .</text>
 <text class="in" x="1" y="21.1" font-size="6.4" fill="#1c2c44" style="fill:#1c2c44;white-space:pre;animation-delay:0.050s" xml:space="preserve">                                    . . . . . . . . . . . . . . . . . . . . . . . .</text>
@@ -127,28 +127,21 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono","D
 <text class="in" x="1" y="415.4" font-size="6.4" fill="url(#sweep)" style="fill:url(#sweep);white-space:pre;animation-delay:1.450s" xml:space="preserve">                                         =~~~~-~-+.  .+--~~==++++++++++=+=~+=~=</text>
 <text class="in" x="1" y="422.4" font-size="6.4" fill="url(#sweep)" style="fill:url(#sweep);white-space:pre;animation-delay:1.475s" xml:space="preserve">                                                 -;  ;;--~~~~=++++++=++</text>
 </svg>
-<text x="172" y="318" font-size="11" text-anchor="middle" class="m" letter-spacing="2">KEEP SHIPPING</text>
-<text class="in" x="352" y="46" font-size="20" font-weight="700" style="animation-delay:.2s"><tspan class="c">jamesson</tspan><tspan class="m">@</tspan>recife</text>
-<line x1="352" y1="60" x2="682" y2="60" stroke="#1d2b40"/>
-<text class="in" x="352" y="88" font-size="13.5" style="animation-delay:0.35s"><tspan class="b">Nome</tspan><tspan x="450">Jamesson Lucas</tspan></text>
-<text class="in" x="352" y="113" font-size="13.5" style="animation-delay:0.44s"><tspan class="b">Cargo</tspan><tspan x="450">Desenvolvedor Front-end</tspan></text>
-<text class="in" x="352" y="138" font-size="13.5" style="animation-delay:0.53s"><tspan class="b">Foco</tspan><tspan x="450">Performance web · UX</tspan></text>
-<text class="in" x="352" y="163" font-size="13.5" style="animation-delay:0.62s"><tspan class="b">Front</tspan><tspan x="450">React · Next.js · TypeScript</tspan></text>
-<text class="in" x="352" y="188" font-size="13.5" style="animation-delay:0.71s"><tspan class="b">Back</tspan><tspan x="450">Node.js · Express · MySQL</tspan></text>
-<text class="in" x="352" y="213" font-size="13.5" style="animation-delay:0.80s"><tspan class="b">Design</tspan><tspan x="450">Figma → código</tspan></text>
-<text class="in" x="352" y="238" font-size="13.5" style="animation-delay:0.89s"><tspan class="b">Estudando</tspan><tspan x="450">Testes · Acessibilidade</tspan></text>
-<text class="in" x="352" y="263" font-size="13.5" style="animation-delay:0.98s"><tspan class="b">Local</tspan><tspan x="450">Recife, PE · Brasil</tspan></text>
-<path d="M712 52 V30 H734 M952 30 H974 V52 M974 204 V226 H952 M734 226 H712 V204" fill="none" stroke="#39c5cf" stroke-width="1.5"/>
-<text class="in" x="736" y="74" font-size="14.5" style="animation-delay:1.10s">&quot;Interface boa é a</text>
-<text class="in" x="736" y="98" font-size="14.5" style="animation-delay:1.22s">que ninguém percebe:</text>
-<text class="in" x="736" y="122" font-size="14.5" style="animation-delay:1.34s">carrega rápido e</text>
-<text class="in" x="736" y="146" font-size="14.5" style="animation-delay:1.46s">simplesmente</text>
-<text class="in" x="736" y="170" font-size="14.5" style="animation-delay:1.58s">funciona.&quot;</text>
-<text class="in m" x="954" y="206" font-size="12" text-anchor="end" style="animation-delay:1.8s">— jamesson</text>
-<g class="in" style="animation-delay:1.40s"><rect x="352" y="276" width="59" height="30" rx="6" fill="none" fill-opacity="0" stroke="#39c5cf" stroke-opacity=".7"/><text x="382" y="296" font-size="12" text-anchor="middle" font-weight="600" style="fill:#39c5cf">REACT</text></g>
-<g class="in" style="animation-delay:1.48s"><rect x="421.0" y="276" width="75" height="30" rx="6" fill="none" fill-opacity="0" stroke="#39c5cf" stroke-opacity=".7"/><text x="459" y="296" font-size="12" text-anchor="middle" font-weight="600" style="fill:#39c5cf">NEXT.JS</text></g>
-<g class="in" style="animation-delay:1.56s"><rect x="506.4" y="276" width="108" height="30" rx="6" fill="#3fb950" fill-opacity="0.14" stroke="#3fb950" stroke-opacity=".7"/><text x="560" y="296" font-size="12" text-anchor="middle" font-weight="600" style="fill:#3fb950">PERFORMANCE</text></g>
-<g class="in" style="animation-delay:1.64s"><rect x="624.5999999999999" y="276" width="34" height="30" rx="6" fill="none" fill-opacity="0" stroke="#39c5cf" stroke-opacity=".7"/><text x="642" y="296" font-size="12" text-anchor="middle" font-weight="600" style="fill:#39c5cf">UX</text></g>
-<g class="in" style="animation-delay:1.72s"><rect x="668.9999999999999" y="276" width="133" height="30" rx="6" fill="none" fill-opacity="0" stroke="#39c5cf" stroke-opacity=".7"/><text x="735" y="296" font-size="12" text-anchor="middle" font-weight="600" style="fill:#39c5cf">FIGMA → CÓDIGO</text></g>
-<rect class="blink" x="816" y="281" width="9" height="20" fill="#39c5cf"/>
+<text x="205" y="322" font-size="11" text-anchor="middle" class="m" letter-spacing="2">KEEP SHIPPING</text>
+<text class="in" x="430" y="46" font-size="22" font-weight="700" style="animation-delay:.2s"><tspan class="c">jamesson</tspan><tspan class="m">@</tspan>recife</text>
+<line x1="430" y1="60" x2="950" y2="60" stroke="#1d2b40"/>
+<text class="in" x="430" y="90" font-size="15" style="animation-delay:0.35s"><tspan class="b">Nome</tspan><tspan x="550">Jamesson Lucas</tspan></text>
+<text class="in" x="430" y="115" font-size="15" style="animation-delay:0.44s"><tspan class="b">Cargo</tspan><tspan x="550">Desenvolvedor Front-end</tspan></text>
+<text class="in" x="430" y="140" font-size="15" style="animation-delay:0.53s"><tspan class="b">Foco</tspan><tspan x="550">Performance web · UX</tspan></text>
+<text class="in" x="430" y="165" font-size="15" style="animation-delay:0.62s"><tspan class="b">Front</tspan><tspan x="550">React · Next.js · TypeScript</tspan></text>
+<text class="in" x="430" y="190" font-size="15" style="animation-delay:0.71s"><tspan class="b">Back</tspan><tspan x="550">Node.js · Express · MySQL</tspan></text>
+<text class="in" x="430" y="215" font-size="15" style="animation-delay:0.80s"><tspan class="b">Design</tspan><tspan x="550">Figma → código</tspan></text>
+<text class="in" x="430" y="240" font-size="15" style="animation-delay:0.89s"><tspan class="b">Estudando</tspan><tspan x="550">Testes · Acessibilidade</tspan></text>
+<text class="in" x="430" y="265" font-size="15" style="animation-delay:0.98s"><tspan class="b">Local</tspan><tspan x="550">Recife, PE · Brasil</tspan></text>
+<g class="in" style="animation-delay:1.40s"><rect x="430" y="280" width="59" height="30" rx="6" fill="none" fill-opacity="0" stroke="#39c5cf" stroke-opacity=".7"/><text x="460" y="300" font-size="12" text-anchor="middle" font-weight="600" style="fill:#39c5cf">REACT</text></g>
+<g class="in" style="animation-delay:1.48s"><rect x="499.0" y="280" width="75" height="30" rx="6" fill="none" fill-opacity="0" stroke="#39c5cf" stroke-opacity=".7"/><text x="537" y="300" font-size="12" text-anchor="middle" font-weight="600" style="fill:#39c5cf">NEXT.JS</text></g>
+<g class="in" style="animation-delay:1.56s"><rect x="584.4" y="280" width="108" height="30" rx="6" fill="#3fb950" fill-opacity="0.14" stroke="#3fb950" stroke-opacity=".7"/><text x="638" y="300" font-size="12" text-anchor="middle" font-weight="600" style="fill:#3fb950">PERFORMANCE</text></g>
+<g class="in" style="animation-delay:1.64s"><rect x="702.5999999999999" y="280" width="34" height="30" rx="6" fill="none" fill-opacity="0" stroke="#39c5cf" stroke-opacity=".7"/><text x="720" y="300" font-size="12" text-anchor="middle" font-weight="600" style="fill:#39c5cf">UX</text></g>
+<g class="in" style="animation-delay:1.72s"><rect x="746.9999999999999" y="280" width="133" height="30" rx="6" fill="none" fill-opacity="0" stroke="#39c5cf" stroke-opacity=".7"/><text x="813" y="300" font-size="12" text-anchor="middle" font-weight="600" style="fill:#39c5cf">FIGMA → CÓDIGO</text></g>
+<rect class="blink" x="894" y="285" width="9" height="20" fill="#39c5cf"/>
 </svg>
